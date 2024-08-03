@@ -35,10 +35,9 @@ Install all required dependencies
 ```bash
 yarn add @types/node typescript @solana/web3.js bs58 @metaplex-foundation/umi-bundle-defaults @metaplex-foundation/umi @metaplex-foundation/umi-uploader-irys
 yarn add -D ts-node
-touch keygen.ts
-touch airdrop.ts
-touch transfer.ts
-touch enroll.ts
+touch nft_image.ts
+touch nft_metadata.ts
+touch nft_mint.ts
 ```
 Also ensure to create a tsconfig file with the following:
 ```bash
