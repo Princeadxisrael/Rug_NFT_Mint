@@ -1,5 +1,5 @@
 
-# NFT Mint With Metaplex, Umi 
+# SPL Mint With Metaplex, Umi, Solana web3 js 
 
 Within this project, we generated an NFT image and minted an NFT using the Metaplex NFT protocol standard
 
